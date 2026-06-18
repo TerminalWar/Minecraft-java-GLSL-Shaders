@@ -1,0 +1,1 @@
+SLGL Mobile Vibrant shader pack files are provided for project development and testing.
