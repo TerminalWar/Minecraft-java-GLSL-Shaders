@@ -1,0 +1,7 @@
+0.1.0
+- First runnable mobile-focused shader pack structure.
+- Added bright trailer-style final color grade.
+- Added lightweight terrain/entity/hand rendering path.
+- Added vertex-stage waving plants with an off toggle.
+- Added cheap water tint and optional shimmer.
+- Added simple sky, weather, fog-friendly, and debug behavior.

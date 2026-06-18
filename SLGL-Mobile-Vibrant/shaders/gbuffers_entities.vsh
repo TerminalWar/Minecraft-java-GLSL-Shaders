@@ -1,0 +1,11 @@
+#version 120
+#include "/lib/precision_mobile.glsl"
+
+varying vec2 texcoord;
+varying vec4 glcolor;
+
+void main() {
+    gl_Position = ftransform();
+    texcoord = gl_MultiTexCoord0.xy;
+    glcolor = gl_Color;
+}
